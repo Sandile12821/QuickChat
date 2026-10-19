@@ -1,0 +1,14 @@
+C:\Users\LENOVO\QuickChat\bin\Debug\net10.0\QuickChat.exe
+C:\Users\LENOVO\QuickChat\bin\Debug\net10.0\QuickChat.deps.json
+C:\Users\LENOVO\QuickChat\bin\Debug\net10.0\QuickChat.runtimeconfig.json
+C:\Users\LENOVO\QuickChat\bin\Debug\net10.0\QuickChat.dll
+C:\Users\LENOVO\QuickChat\bin\Debug\net10.0\QuickChat.pdb
+C:\Users\LENOVO\QuickChat\obj\Debug\net10.0\QuickChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\QuickChat\obj\Debug\net10.0\QuickChat.AssemblyInfoInputs.cache
+C:\Users\LENOVO\QuickChat\obj\Debug\net10.0\QuickChat.AssemblyInfo.cs
+C:\Users\LENOVO\QuickChat\obj\Debug\net10.0\QuickChat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\QuickChat\obj\Debug\net10.0\QuickChat.dll
+C:\Users\LENOVO\QuickChat\obj\Debug\net10.0\refint\QuickChat.dll
+C:\Users\LENOVO\QuickChat\obj\Debug\net10.0\QuickChat.pdb
+C:\Users\LENOVO\QuickChat\obj\Debug\net10.0\QuickChat.genruntimeconfig.cache
+C:\Users\LENOVO\QuickChat\obj\Debug\net10.0\ref\QuickChat.dll
